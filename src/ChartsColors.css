@@ -1,0 +1,13 @@
+/* Charts Style  */
+
+.fm-charts-color-2 {
+    fill: #76b04e !important;
+}
+
+#pivotcharts-linechart-container-3 #fm-pivot-view #fm-charts-view div #fm-chart svg g g path.fm-line {
+    stroke: #00A45A !important;
+}
+
+#pivotcharts-linechart-container-3 #fm-pivot-view #fm-charts-view div #fm-chart svg g g circle.fm-circle {
+    stroke: #00A45A !important;
+}
